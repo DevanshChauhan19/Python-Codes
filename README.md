@@ -1,3 +1,3 @@
-# Python-Codes
+# Python-Codes-for-LeetCode
 
-In this file, this is a tutorials that can be used to learn various libraries in Python like Pandas,Numpy,Matplotlib.
+This repositories includes various codes for various problems in LeetCode
